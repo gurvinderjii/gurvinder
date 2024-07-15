@@ -62,12 +62,6 @@ a {
     height: 400px;
 }
 
-.col-2 img {
-    width: 100%;
-    border-radius: 50%;
-    /* box-shadow: 0 0 30px 20px gray; */
-}
-
 #btn-login {
     border: none;
     background-color: var(--main-1);
